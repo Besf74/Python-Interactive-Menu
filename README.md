@@ -3,7 +3,8 @@
 ## Objective
 This interactive menu was done as a final project for a CS 115 course. The task was to create a menu-based Python program that enables users to interact with several tools: a white blood cell percentage calculator, a Rock-Paper-Scissors game, and a student score inquiry tool. The task reinforced basic programming concepts like conditionals, loops, lists, dictionaries, functions, and input validation.
 
-### Skills Learned
+
+## Skills Learned
 - Creating interactive console menu-based applications
 - User input validation
 - Using loops, if/else statements, and dictionary data types
@@ -11,13 +12,13 @@ This interactive menu was done as a final project for a CS 115 course. The task 
 - Percentages calculation and display with formatted output
 - Splitting string inputs and converting data types for filtering based on range
 
-### Tools Used
+## Tools Used
 - Python (developed in Thonny IDE)
 - Built-in random module for generating Rock-Paper-Scissors outcomes
 - Standard input/output for interacting with the user
 - Lists and dictionaries to store and manage game data
 
-### Steps
+## Steps
 1. White Blood Cell Percentage Checker
 Allows the user to input a string of white blood cell types using characters "N", "L", or "M". The program then calculates and displays the percentage breakdown of Neutrophils, Lymphocytes, and Monocytes.
 
